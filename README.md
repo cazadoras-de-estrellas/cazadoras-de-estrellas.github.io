@@ -1,10 +1,12 @@
 # Cazadoras de Estrellas
 
-## Welcome to GitHub Pages
+## ¿Quienés somos?
 
-You can use the [editor on GitHub](https://github.com/cazadoras-de-estrellas/cazadorasdeestrellas.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Cazadoras de Estrellas es un grupo de estudiantes de Astronomía de la Universidad de Chile que realizan actividades para promover la carrera científica en alumnas de enseñanza media. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+
 
 ### Markdown
 
