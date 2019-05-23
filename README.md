@@ -1,4 +1,3 @@
-# Cazadoras de Estrellas
 
 ## ¿Quienés somos?
 
